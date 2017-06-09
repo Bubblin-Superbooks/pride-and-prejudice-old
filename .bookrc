@@ -5,7 +5,6 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "Pride and Prejudice",
-  "type": "text",
-  "book_id": 325
+  "name": "Emma",
+  "type": "text"
 }

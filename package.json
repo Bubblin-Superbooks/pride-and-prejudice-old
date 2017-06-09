@@ -1,17 +1,17 @@
 {
-  "name": "pride-and-prejudice",
+  "name": "emma",
   "version": "0.0.4",
-  "description": "Superbook Pride and Prejudice by Jane Austen",
+  "description": "Superbook Emma by Jane Austen",
   "keywords": [
     "superbook",
     "bookiza"
   ],
-  "author": "janeausten marvindanig+guten+janeausten@gmail.com (https://bubbl.in/janeausten)",
+  "author": "undefined undefined (https://bubbl.in/undefined)",
   "license": "ISC",
-  "homepage": "https://bubbl.in/janeausten",
+  "homepage": "https://bubbl.in/undefined",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bubblin/pride-and-prejudice"
+    "url": "https://github.com/bubblin/emma"
   },
   "scripts": {
     "postinstall": "node ./crust/scripts/ready.js"
